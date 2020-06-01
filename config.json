@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "demo_sites": "",
-    "customurlscheme": "",
+    "customurlscheme": "moodlemobile://http://eprogram.in/login/index.php",
     "presets" : {"url": "http://eprogram.in/login/index.php", "username": ""},
     "siteurl": "http://eprogram.in/login/index.php",
     "sitename": "",
