@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "demo_sites": "",
-    "customurlscheme": "moodlemobile://http://eprogram.in?token=TOKEN&privatetoken=PRIVATETOKEN&redirect=http://eprogram.in/login/index.php?id=2",
+    "customurlscheme": "moodlemobile://http://eprogram.in?redirect=http://eprogram.in/login/index.php",
     "presets" : {"url": "http://eprogram.in/login/index.php", "username": "smvss"},
     "siteurl": "http://eprogram.in",
     "sitename": "",
