@@ -58,7 +58,7 @@
     "wsextservice": "local_mobile",
     "demo_sites": "",
     "customurlscheme": "smvsselearn",
-    "presets" : {"url": "http://eprogram.in/login/index.php", "username": ""},
+    "presets" : {"url": "http://eprogram.in/login/index.php", "username": "smvss"},
     "siteurl": "http://eprogram.in",
     "sitename": "",
     "multisitesdisplay": "",
