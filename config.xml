@@ -16,10 +16,7 @@
         Moodle Mobile team
     </author>
 
-    <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.0</string>
-    </edit-config>
-
+    
     <gap:platform name="ios" />
     <gap:platform name="android" />
 
