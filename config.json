@@ -57,9 +57,9 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "demo_sites": "",
-    
+    "customurlscheme": "smvsselearn",
     "presets" : {"url": "http://eprogram.in/login/index.php", "username": ""},
-    "siteurl": "http://eprogram.in/login/index.php",
+    "siteurl": "http://eprogram.in",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
